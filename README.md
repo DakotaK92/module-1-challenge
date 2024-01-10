@@ -1,4 +1,4 @@
-# module-1-challenge
+# Horiseon
 
 When given the task with making a website you need a HTML and CSS.
 
