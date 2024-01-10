@@ -13,3 +13,6 @@ Inside the HTML, I changed the link to my CSS file in my folder. And pushed/comm
 Also inside HTML, I updated the photos to all images in my folder, including the one inside the CSS. And pushed/commited everything to Github.
 
 Deployed at: https://dakotak92.github.io/Challenge-1/
+
+Website:
+![Horiseon Screenshot](https://github.com/DakotaK92/Challenge-1/assets/46942706/d1f9c78a-a482-44cb-b306-10097fe8f755)
